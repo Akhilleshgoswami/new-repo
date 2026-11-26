@@ -1,0 +1,6 @@
+Subscription Policy
+
+Plans renew automatically at the end of each billing period unless cancelled.
+Customers can upgrade or downgrade at any time; changes take effect on the next billing cycle.
+Cancel anytime from account settings; access continues until the end of the paid period.
+A free trial, when offered, converts to a paid plan unless cancelled before the trial ends.

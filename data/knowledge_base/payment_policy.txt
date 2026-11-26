@@ -1,0 +1,6 @@
+Payment Policy
+
+We accept major credit cards, debit cards, and approved digital wallets.
+All prices are charged in USD unless otherwise stated at checkout.
+Failed payments may result in temporary suspension of service until payment succeeds.
+Invoices are emailed automatically after each successful charge.
